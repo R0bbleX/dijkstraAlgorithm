@@ -1,0 +1,20 @@
+#dijsktraGraph {
+    background-color: #ccc;
+    width: 80vw;
+    height: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    float: right;
+}
+
+#dijsktraHeading {
+    text-align: center;
+}
+
+#dijsktraInputs {
+    float: left;
+    width: 10vw;
+    height: 400px;
+    margin: auto;
+    text-align: center;
+}
